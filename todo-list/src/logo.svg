@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80mm"
+   height="80mm"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg5"
+   inkscapeVersion="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodiDocname="logo.svg"
+   xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlnsXlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlnsSvg="http://www.w3.org/2000/svg">
+  <sodipodiNamedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscapePageshadow="2"
+     inkscapePageopacity="0.0"
+     inkscapePagecheckerboard="0"
+     inkscapeDocument-units="mm"
+     showgrid="false"
+     inkscapeZoom="1.7814369"
+     inkscapeCx="250.3597"
+     inkscapeCy="225.37986"
+     inkscapeWindow-width="1162"
+     inkscapeWindow-height="1372"
+     inkscapeWindow-x="0"
+     inkscapeWindow-y="0"
+     inkscapeWindow-maximized="1"
+     inkscapeCurrent-layer="layer1"
+     width="80mm" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscapeCollect="always"
+       id="linearGradient32941">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop32937" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop32939" />
+    </linearGradient>
+    <rect
+       x="239.95694"
+       y="351.22775"
+       width="278.4158"
+       height="304.12946"
+       id="rect4455" />
+    <radialGradient
+       inkscapeCollect="always"
+       xlinkHref="#linearGradient32941"
+       id="radialGradient32943"
+       cx="335.76953"
+       cy="471.41602"
+       fx="335.76953"
+       fy="471.41602"
+       r="96"
+       gradientTransform="matrix(1,0,0,0.74609375,0,119.69547)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscapeCollect="always"
+       xlinkHref="#linearGradient32941"
+       id="radialGradient32991"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.74609375,0,119.69547)"
+       cx="335.76953"
+       cy="471.41602"
+       fx="335.76953"
+       fy="471.41602"
+       r="96" />
+  </defs>
+  <g
+     inkscapeLabel="Calque 1"
+     inkscapeGroupmode="layer"
+     id="layer1">
+    <g
+       id="g32962"
+       transform="matrix(1.0010842,0,0,1.0001136,-53.995972,-78.819615)"
+       style="paint-order:stroke fill markers">
+      <g
+         aria-label=""
+         id="text24085"
+         style="font-size:59.9722px;line-height:1.25;word-spacing:0px;fill:#ffffff;stroke-width:0.264583;paint-order:stroke fill markers">
+        <path
+           d="M 104.24737,98.243216 H 63.016486 c -3.162596,0 -5.622393,2.576934 -5.622393,5.622394 v 41.23089 c 0,3.16259 2.459797,5.62239 5.622393,5.62239 h 41.230884 c 3.04547,0 5.6224,-2.4598 5.6224,-5.62239 v -41.23089 c 0,-3.04546 -2.57693,-5.622394 -5.6224,-5.622394 z m -0.7028,46.853284 H 63.719285 c -0.468532,0 -0.702799,-0.23427 -0.702799,-0.7028 v -39.82529 c 0,-0.3514 0.234267,-0.7028 0.702799,-0.7028 h 39.825285 c 0.3514,0 0.7028,0.3514 0.7028,0.7028 v 39.82529 c 0,0.46853 -0.3514,0.7028 -0.7028,0.7028 z"
+           id="path32178"
+           style="paint-order:stroke fill markers" />
+      </g>
+      <g
+         aria-label=""
+         transform="matrix(0.3991704,0,0,0.3991704,-39.99222,-73.115837)"
+         id="text4453"
+         style="font-size:192px;line-height:1.25;font-family:'Font Awesome 5 Free';-inkscape-font-specification:'Font Awesome 5 Free';word-spacing:0px;white-space:pre;shape-inside:url(#rect4455);fill:#00a600;fill-opacity:1;stroke:url(#radialGradient32943);paint-order:stroke fill markers">
+        <path
+           d="m 304.83203,540.22852 c 3.75,3.75 10.125,3.75 13.875,0 l 110.25,-110.25 c 3.75,-3.75 3.75,-10.125 0,-13.875 l -13.5,-13.5 c -3.75,-3.75 -9.75,-3.75 -13.5,0 l -90,90 -42.375,-42 c -3.75,-3.75 -9.75,-3.75 -13.5,0 l -13.5,13.5 c -3.75,3.75 -3.75,10.125 0,13.875 z"
+           id="path32157"
+           style="fill:#EE0000;fill-opacity:1;stroke:url(#radialGradient32991);paint-order:stroke fill markers" />
+      </g>
+    </g>
+  </g>
+</svg>
